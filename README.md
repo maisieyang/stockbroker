@@ -1,10 +1,8 @@
 # Stockbroker Human in the Loop
 
-The code for the Stockbroker Human in the Loop video can be found in this directory. It's setup as a monorepo-style project, with `frontend` and `backend` directories.
 The `frontend` directory contains a Next.js application which allows you to interact with the Stockbroker agent via a chat interface.
 The backend contains a LangGraph agent which powers the core functionality of the stockbroker.
 
-## YouTube Video (Coming soon)
 
 ## Setup
 
